@@ -415,6 +415,16 @@ html, body{ height: 100%; }
     line-height: 100px;
 	padding-bottom:25px;
     margin-top: 15rem;
+    text-align: center;
+}
+
+.banner-h2{
+    background-color: #000;
+    width: fit-content;
+    height: 37px;
+    /* padding: 10px; */
+    margin-left: 20%;
+    opacity: 0.5;
 }
 
 .banner-text p{
